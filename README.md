@@ -67,3 +67,13 @@ footer {
     background: #007BFF;
     color: #fff;
 }
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/background.jpg'); /* مسیر تصویر */
+    background-size: cover; /* تصویر را به طور کامل نمایش می‌دهد */
+    background-position: center; /* تصویر را در وسط صفحه قرار می‌دهد */
+    background-repeat: no-repeat; /* از تکرار تصویر جلوگیری می‌کند */
+}
